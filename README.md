@@ -18,4 +18,4 @@ $ node index
 $ git pull --force
 </pre>
 
-say alhamdulillah :)
+saya alhamdulillah jangan lupa shalat:)
